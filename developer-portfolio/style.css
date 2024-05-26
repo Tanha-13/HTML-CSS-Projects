@@ -69,3 +69,11 @@ section {
     color: #757575;
     line-height: 28px;
 }
+
+/* resume section style */
+.resume-container{
+    margin-bottom: 113px;
+    display: flex;
+    gap: 24px;
+
+}
